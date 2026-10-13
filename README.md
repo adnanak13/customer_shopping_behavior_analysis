@@ -163,7 +163,8 @@ Customer-Shopping-Behavior-Analysis/
 ## Author
 
 **Adnan Ahmad Khan**  
-Add your name, GitHub profile, and any project links here before publishing.
+- GitHub profile: https://github.com/adnanak13
+- Project link: https://github.com/adnanak13/customer_shopping_behavior_analysis
 
 ---
 
